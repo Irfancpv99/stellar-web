@@ -1,0 +1,7 @@
+project_id = "qthpxszliprqzksmdsge"
+
+[functions.execute-simulation]
+verify_jwt = false
+
+[functions.execute-batch]
+verify_jwt = false
